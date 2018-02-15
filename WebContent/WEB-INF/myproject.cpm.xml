@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE compass-core-mapping PUBLIC
+ "-//Compass/Compass Core Mapping DTD 2.2//EN"
+ "http://www.compass-project.org/dtd/compass-core-mapping-2.1.dtd">
+
+<compass-core-mapping package="com.moss.project.eneasy.model">
+
+ <class name="Topic" alias="topic" root="true">
+  <id name="objid"/>
+
+  <property name="name">
+   <meta-data>name</meta-data>
+  </property>
+ </class>
+
+</compass-core-mapping>

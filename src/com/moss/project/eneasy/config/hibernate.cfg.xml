@@ -1,0 +1,13 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+ "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration> 
+    <session-factory name="dvdstore-catalog"> 
+        <!-- regular Hibernate Core configuration --> 
+        <!-- Hibernate Search configuration -->
+        <property name="hibernate.search.default.indexBase"> 
+            /users/application/indexes 
+        </property> 
+        <!-- mapping classes -->
+    </session-factory> 
+</hibernate-configuration>

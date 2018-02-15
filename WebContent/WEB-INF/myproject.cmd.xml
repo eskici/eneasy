@@ -1,0 +1,21 @@
+<?xml version="1.0"?>  
+<!DOCTYPE compass-core-meta-data PUBLIC  
+ "-//Compass/Compass Core Meta Data DTD 2.2//EN"  
+ "http://www.compass-project.org/dtd/compass-core-meta-data-2.1.dtd">  
+  
+<compass-core-meta-data>  
+  
+ <meta-data-group id="myproject" displayName="myproject Meta Data">  
+  
+  <description>myproject Meta Data</description>  
+  <uri>http://compass/myproject</uri>  
+  
+  <alias id="topic" displayName="Topic">  
+   <description>book alias</description>  
+   <uri>http://compass/myproject/alias/topic</uri>  
+   <name>topic</name>  
+  </alias>  
+  
+ </meta-data-group>  
+  
+</compass-core-meta-data>  

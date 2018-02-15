@@ -1,0 +1,7 @@
+30-04-2010
+MYSQL kurulumu - 1h
+Topic oluşturma - 1h
+Topic onaaylama
+Topic iptal etme
+Topic search
+Search engine araştırması
