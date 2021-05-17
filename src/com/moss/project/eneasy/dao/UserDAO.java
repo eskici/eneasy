@@ -1,4 +1,4 @@
-package com.moss.project.eneasy.dao;
+package com.moss.project.eneasy.repository;
 
 import java.util.List;
 
